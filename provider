@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:51:58.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="aB7tISeA9JggMFuK0nGO" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:57:56.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="czE3XPjhQiFi85TcScGK" version="18.1.2" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -316,8 +316,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YLtHDvyP-x6TCJLPzirs" name="Page-2">
-    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+  <diagram id="YLtHDvyP-x6TCJLPzirs" name="Provider">
+    <mxGraphModel dx="1240" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,8 +408,50 @@
         <mxCell id="ouwxAM2yMHcWXgYFbY7Q-1" value="Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="525" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-ejoAIuy_OmwEi8t4eu-1" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Select Podiatrist&#39;s&lt;br&gt;&amp;nbsp;for the Program&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="530" y="30" width="110" height="90" as="geometry" />
+        <mxCell id="I-ejoAIuy_OmwEi8t4eu-1" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Podiatrist&lt;br&gt;&amp;nbsp;Pipeline for DFC&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="530" y="30" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xCdGOpIWPqBy4xIDO7qY-1" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Docusign/Digital&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&amp;nbsp;signature on&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;agreements&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="690" y="405" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUqFm9KdvvnsR8x7vnUO-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="acPPxWoSqWdB6y_ls9lG-5" target="xCdGOpIWPqBy4xIDO7qY-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="570" y="510" as="sourcePoint" />
+            <mxPoint x="570" y="441" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUqFm9KdvvnsR8x7vnUO-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xCdGOpIWPqBy4xIDO7qY-1" target="acPPxWoSqWdB6y_ls9lG-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="605.0000000000002" y="460" as="sourcePoint" />
+            <mxPoint x="640" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUqFm9KdvvnsR8x7vnUO-3" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Cloud storage&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Provider Vault&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="690" y="530" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUqFm9KdvvnsR8x7vnUO-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZUqFm9KdvvnsR8x7vnUO-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="679.5000000000002" y="550" as="sourcePoint" />
+            <mxPoint x="580" y="553" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609.5" y="592.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUqFm9KdvvnsR8x7vnUO-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="ZUqFm9KdvvnsR8x7vnUO-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="578.0000000000002" y="574.29" as="sourcePoint" />
+            <mxPoint x="673.0000000000002" y="574.29" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="593" y="584.29" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
