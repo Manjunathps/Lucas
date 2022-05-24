@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T18:34:38.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="HY7iIg2qbCLT3PFDE7Ja" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T18:45:03.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="j-BbP7zmHgCqx_fnBSoS" version="18.1.2" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
         <mxCell id="acPPxWoSqWdB6y_ls9lG-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acPPxWoSqWdB6y_ls9lG-1" target="acPPxWoSqWdB6y_ls9lG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acPPxWoSqWdB6y_ls9lG-1" value="Unregistered Provider goes through the Terms and conditions" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="acPPxWoSqWdB6y_ls9lG-1" value="Unregistered Provider reviews the Terms and conditions" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="acPPxWoSqWdB6y_ls9lG-6" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acPPxWoSqWdB6y_ls9lG-3" target="acPPxWoSqWdB6y_ls9lG-5">
@@ -347,7 +347,7 @@
         <mxCell id="acPPxWoSqWdB6y_ls9lG-8" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acPPxWoSqWdB6y_ls9lG-3" target="acPPxWoSqWdB6y_ls9lG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acPPxWoSqWdB6y_ls9lG-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="acPPxWoSqWdB6y_ls9lG-3" value="Decision" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="400" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="acPPxWoSqWdB6y_ls9lG-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acPPxWoSqWdB6y_ls9lG-5" target="acPPxWoSqWdB6y_ls9lG-9">
@@ -365,8 +365,20 @@
         <mxCell id="acPPxWoSqWdB6y_ls9lG-9" value="Stores Credit card and card credentials&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="530" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="acPPxWoSqWdB6y_ls9lG-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acPPxWoSqWdB6y_ls9lG-13" target="acPPxWoSqWdB6y_ls9lG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="acPPxWoSqWdB6y_ls9lG-13" value="Credit card is charged to validate Provider" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="458.75" y="650" width="117.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="acPPxWoSqWdB6y_ls9lG-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="acPPxWoSqWdB6y_ls9lG-15" target="acPPxWoSqWdB6y_ls9lG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acPPxWoSqWdB6y_ls9lG-15" value="Welcome kit and signup email sent" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="458" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="acPPxWoSqWdB6y_ls9lG-17" value="Provider is onboarded" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="890" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
