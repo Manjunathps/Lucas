@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T18:45:42.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="vgE4bWrlwhyeOlGi30Cn" version="18.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-25T20:22:16.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="3g0xJQvujLus1TvOqnwj" version="18.1.2" type="github" pages="3">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -317,7 +317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YLtHDvyP-x6TCJLPzirs" name="Provider">
-    <mxGraphModel dx="1021" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,7 +325,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VK09cS2H_61YbccESq5z-1" value="START - Acquire new provider" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="20" width="100" height="100" as="geometry" />
+          <mxGeometry x="255" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="acPPxWoSqWdB6y_ls9lG-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VK09cS2H_61YbccESq5z-2" target="acPPxWoSqWdB6y_ls9lG-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -333,7 +333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VK09cS2H_61YbccESq5z-2" value="Unregistered Provider enters data through temporary access" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="345" y="150" width="150" height="70" as="geometry" />
+          <mxGeometry x="230" y="140" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="acPPxWoSqWdB6y_ls9lG-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="acPPxWoSqWdB6y_ls9lG-1" target="acPPxWoSqWdB6y_ls9lG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -409,7 +409,7 @@
           <mxGeometry x="525" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-ejoAIuy_OmwEi8t4eu-1" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Podiatrist&lt;br&gt;&amp;nbsp;Pipeline for DFC&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="530" y="30" width="130" height="90" as="geometry" />
+          <mxGeometry x="420" y="10" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xCdGOpIWPqBy4xIDO7qY-1" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Docusign/Digital&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&amp;nbsp;signature on&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;agreements&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="690" y="405" width="110" height="90" as="geometry" />
